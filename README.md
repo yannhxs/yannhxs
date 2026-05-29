@@ -1,5 +1,4 @@
-[README_perfil_github.md](https://github.com/user-attachments/files/28412057/README_perfil_github.md)
-
+[README_perfil_github (1).md](https://github.com/user-attachments/files/28412114/README_perfil_github.1.md)
 # Olá, eu sou o Yann Mega! 👋
 
 ### 💻 Desenvolvedor Full Stack | Estudante de Engenharia de Software
@@ -44,8 +43,12 @@ Sou apaixonado por tecnologia e desenvolvimento web, com foco em Python e JavaSc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yannhxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannhxs&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yannhxs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yannhxs&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yannhxs&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
